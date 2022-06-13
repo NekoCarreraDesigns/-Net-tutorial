@@ -1,0 +1,15 @@
+C:\Users\denve\Net-tutorial\Net-tutorial\bin\Debug\net6.0\Net-tutorial.exe
+C:\Users\denve\Net-tutorial\Net-tutorial\bin\Debug\net6.0\Net-tutorial.deps.json
+C:\Users\denve\Net-tutorial\Net-tutorial\bin\Debug\net6.0\Net-tutorial.runtimeconfig.json
+C:\Users\denve\Net-tutorial\Net-tutorial\bin\Debug\net6.0\Net-tutorial.dll
+C:\Users\denve\Net-tutorial\Net-tutorial\bin\Debug\net6.0\Net-tutorial.pdb
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\Net-tutorial.csproj.AssemblyReference.cache
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\Net-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\Net-tutorial.AssemblyInfoInputs.cache
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\Net-tutorial.AssemblyInfo.cs
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\Net-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\Net-tutorial.dll
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\refint\Net-tutorial.dll
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\Net-tutorial.pdb
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\Net-tutorial.genruntimeconfig.cache
+C:\Users\denve\Net-tutorial\Net-tutorial\obj\Debug\net6.0\ref\Net-tutorial.dll
