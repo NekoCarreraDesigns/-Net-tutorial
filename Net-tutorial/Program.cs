@@ -14,3 +14,12 @@ firstName = "Nick";
 Console.WriteLine(firstName);
 firstName = "Terrick";
 Console.WriteLine(firstName);
+
+var message = "Hello and welcome to C#";
+Console.WriteLine(message);
+
+var integer = 123;
+Console.WriteLine(integer);
+
+var decimalNumber = 34.4;
+Console.WriteLine(decimalNumber);
