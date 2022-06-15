@@ -24,13 +24,25 @@
 // var decimalNumber = 34.4;
 // Console.WriteLine(decimalNumber);
 
+//escape
 // Console.WriteLine("Hello\nWorld!");
 // Console.WriteLine("Hello\tWorld!");
 // Console.WriteLine("hello \"World\"!");
 // Console.WriteLine("c:\\source\\repos");
 
-Console.WriteLine("Generating invoices for customer \"Hextasy Art\" ...\n");
-Console.WriteLine("Invoice: 1021\t\tComplete!");
-Console.WriteLine("Invoice: 1022\t\tComplete!");
-Console.WriteLine("\nOutput Directory:\t");
-Console.WriteLine(@"c:\invoices");
+//escape and verbatim
+// Console.WriteLine("Generating invoices for customer \"Hextasy Art\" ...\n");
+// Console.WriteLine("Invoice: 1021\t\tComplete!");
+// Console.WriteLine("Invoice: 1022\t\tComplete!");
+// Console.WriteLine("\nOutput Directory:\t");
+// Console.WriteLine(@"c:\invoices");
+
+// concatenation
+// string firstName = "Bob";
+// string greeting = "hello";
+// Console.WriteLine(greeting + " " + firstName + "!");
+
+// string interpolation
+string firstName = "Bob";
+string message = $"Hello {firstName}!";
+Console.WriteLine(message);
