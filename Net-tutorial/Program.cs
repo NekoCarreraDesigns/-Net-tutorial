@@ -44,5 +44,9 @@
 
 // string interpolation
 string firstName = "Bob";
-string message = $"Hello {firstName}!";
-Console.WriteLine(message);
+string message = "Hello";
+Console.WriteLine($"{message}  {firstName}");
+
+// verbatim and string interpolation
+string projectName = "First-Project";
+Console.WriteLine($@"C:\Output\{projectName}\Data");
