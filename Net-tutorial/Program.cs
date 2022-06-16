@@ -58,5 +58,5 @@ Console.WriteLine(firstNumber + secondNumber);
 
 string firstName = "Candace";
 int artPiecesSold = 10;
-Console.WriteLine(firstName + " Sold " + artPiecesSold + " pieces of art");
+Console.WriteLine(firstName + " Sold " + (artPiecesSold + 7) + " pieces of art");
 
