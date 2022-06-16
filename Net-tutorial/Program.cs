@@ -60,3 +60,22 @@ string firstName = "Candace";
 int artPiecesSold = 10;
 Console.WriteLine(firstName + " Sold " + (artPiecesSold + 7) + " pieces of art");
 
+int sum = 7 + 5;
+int difference = 7 - 5;
+int product = 7 * 5;
+int quotient = 8 / 4;
+decimal decimalQuotient = 7.0m / 5;
+
+Console.WriteLine("Sum: " + sum);
+Console.WriteLine("Difference: " + difference);
+Console.WriteLine("Product: " + product);
+Console.WriteLine("Quotient: " + quotient);
+Console.WriteLine("Decimal Quotient: " + decimalQuotient);
+
+int first = 7;
+int second = 5;
+decimal secondDecimalQuotient = (decimal)first / (decimal)second;
+Console.WriteLine(secondDecimalQuotient);
+
+
+
