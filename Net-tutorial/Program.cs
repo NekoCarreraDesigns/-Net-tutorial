@@ -51,3 +51,12 @@
 // string projectName = "First-Project";
 // Console.WriteLine($@"C:\Output\{projectName}\Data");
 
+// using mathematic operators
+int firstNumber = 31;
+int secondNumber = 47;
+Console.WriteLine(firstNumber + secondNumber);
+
+string firstName = "Candace";
+int artPiecesSold = 10;
+Console.WriteLine(firstName + " Sold " + artPiecesSold + " pieces of art");
+
